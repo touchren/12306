@@ -1,6 +1,4 @@
 # -*- coding: utf8 -*-
-from config import configCommon
-
 __author__ = 'MR.wen'
 import os
 import yaml
